@@ -23,7 +23,7 @@ The project report presents the results of each section in the form of figures a
 
 ![signal](signal.png)
 
-![spectrogram water plots for 4 windows](spectrogramwaterplotsfor4windows.jpg)
+![spectrogram water plots for 4 windows](STFT_4_windows_heatmat.jpg)
 
 ![Spectrogram](Spectrogram.jpg)
 
