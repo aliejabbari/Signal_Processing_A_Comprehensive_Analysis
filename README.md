@@ -21,19 +21,19 @@ The project report contains the following sections:
 
 The project report presents the results of each section in the form of figures and tables, along with descriptions and discussions. The figures show the time-domain plot, frequency content, spectrogram, and DFT amplitude of the EEG signal and its processed versions. The tables summarize the effects of different parameters on the time and frequency resolution of the spectrogram.
 
-! [signal] (signal.png)
+![signal] (signal.png)
 
-! [spectrogram water plots for 4 windows] (spectrogram water plots for 4 windows.jpg)
+![spectrogram water plots for 4 windows] (spectrogram water plots for 4 windows.jpg)
 
-! [Spectrogram] (Spectrogram.jpg)
-! [windows] (windows.jpg)
-! [STFT 4 windows heatmat] (STFT 4 windows heatmat.jpg)
-! [EEG signal tme freq spectrom] (EEG signal tme freq spectrom.png)
-! [EEG freq content] (EEG freq content.png)
-! [down] (down.png)
-! [EEG signal tme freq spectrom] (EEG signal tme freq spectrom.png)
-! [N-point DFT] (N-point DFT.png)
-! [zerro_padding] (zerro_padding.png)
+![Spectrogram] (Spectrogram.jpg)
+![windows] (windows.jpg)
+![STFT 4 windows heatmat] (STFT 4 windows heatmat.jpg)
+![EEG signal tme freq spectrom] (EEG signal tme freq spectrom.png)
+![EEG freq content] (EEG freq content.png)
+![down] (down.png)
+![EEG signal tme freq spectrom] (EEG signal tme freq spectrom.png)
+![N-point DFT] (N-point DFT.png)
+![zerro_padding] (zerro_padding.png)
 
 
 
