@@ -23,23 +23,16 @@ The project report presents the results of each section in the form of figures a
 
 ![signal](signal.png)
 
-![spectrogram water plots for 4 windows](STFT_4_windows_heatmat.jpg)
 
 ![Spectrogram](Spectrogram.jpg)
 
 ![windows](windows.jpg)
 
-![STFT 4 windows heatmat](STFT 4 windows heatmat.jpg)
 
-![EEG signal tme freq spectrom](EEG signal tme freq spectrom.png)
-
-![EEG freq content](EEG freq content.png)
 
 ![down](down.png)
 
-![EEG signal tme freq spectrom](EEG signal tme freq spectrom.png)
 
-![N-point DFT](N-point DFT.png)
 
 ![zerro_padding](zerro_padding.png)
 
