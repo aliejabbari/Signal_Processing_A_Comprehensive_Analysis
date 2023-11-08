@@ -34,9 +34,6 @@ The project report presents the results of each section in the form of figures a
 
 
 
-![zerro_padding](zerro_padding.png)
-
-
 
 ## Conclusion
 
