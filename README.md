@@ -17,10 +17,22 @@ The project report contains the following sections:
 - **Spectrogram of Downsampled EEG Signal**: This section generates the spectrogram of the downsampled EEG signal with different parameters.
 - **Analysis with Different Downsampling Factors**: This section explores the effects of various downsampling factors (1, 2, 3, 4, 6, 8, 10) on the EEG signal and compares the original EEG signal with the downsampled versions.
 - **Zero Padding and DFT**: This section discusses the application of zero padding to the downsampled EEG signal and analyzes the DFT using different fractions of N.
-
 ## Results
 
 The project report presents the results of each section in the form of figures and tables, along with descriptions and discussions. The figures show the time-domain plot, frequency content, spectrogram, and DFT amplitude of the EEG signal and its processed versions. The tables summarize the effects of different parameters on the time and frequency resolution of the spectrogram.
+! [] (signal.png)
+! [] (spectrogram water plots for 4 windows.jpg)
+! [] (Spectrogram.jpg)
+! [] (windows.jpg)
+! [] (STFT 4 windows heatmat.jpg)
+! [] (EEG signal tme freq spectrom.png)
+! [] (EEG freq content.png)
+! [] (m = 2.png)
+! [] (EEG signal tme freq spectrom.png)
+! [] (N-point DFT.png)
+! [] (zerro_padding.png)
+
+
 
 ## Conclusion
 
